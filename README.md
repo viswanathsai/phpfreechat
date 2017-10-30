@@ -1,4 +1,5 @@
 # Installation quickstart
+# Installation quickstart
 
 [![Build Status](https://travis-ci.org/kerphi/phpfreechat.png?branch=master)](https://travis-ci.org/kerphi/phpfreechat)
 
